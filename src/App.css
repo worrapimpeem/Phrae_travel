@@ -1,0 +1,90 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css");
+@import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css");
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+
+.app-section {
+    padding: 30px;
+}
+
+.app-container {
+    max-width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.grid-container {
+    justify-content: space-between;
+    grid-template-columns: 90px 50px auto auto;
+}
+
+.app-home {
+    max-width: 1200px;
+    margin-top: -80px;
+    margin-right: 50%;
+    margin-bottom: 30px;
+    width: 800px;
+    height: 550px;
+}
+
+.app-home-3 {
+    font-family: 'Oswald', sans-serif;
+    position: absolute;
+    font-weight: 300;
+    color:#000000;
+    font-size: 20px;
+    word-spacing: 5px;
+    letter-spacing: 3px;
+    margin-left: 35%;
+    margin-top: 200px;
+}
+
+.app-home-4 {
+    font-family: 'Oswald', sans-serif;
+    position: absolute;
+    font-weight: 900;
+    font-size: 50px;
+    color: #000000;
+    word-spacing: 5px;
+    letter-spacing: 3px;
+    margin-left: 35%;
+    margin-top: 130px;
+}
+
+.app-home-button {
+    font-family: 'Poppins', sans-serif;
+    position: absolute;
+    font-size: 25px;
+    color: #fff;
+    background: #5f5e4a;
+    padding-top: 0px; 
+    width: 200px;
+    height: 60px;
+    margin-left: 35%;
+    margin-top: 230px;
+}
+
+.app-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    column-gap: 10px;
+    text-align: center;
+    row-gap: 20px;
+    
+}
+
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.container {
+  width: 80%;
+  margin: 60px auto;
+}
+
+.home-all {
+  background-color:#d7d7cb;
+    border-radius: 20px;
+}
+

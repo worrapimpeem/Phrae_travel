@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Thai:wght@300&display=swap');
+.place-item img {
+  display: block;
+  width: 350px;
+  height: 250px;
+  cursor: zoom-in;
+  border-radius: 10px;
+  margin: auto;
+  margin-top: 15px;
+
+}
+
+.app-item-h4{
+  font-family: 'Noto Sans Thai', sans-serif;
+  margin-bottom: 25px;
+  margin-top: 2px;
+  font-size : 20px; 
+  text-align: center;
+}
+
+.card-item{
+  background-color: #f4f5ef;
+  padding-left: 5px;
+  padding-right: 5px;
+  padding-top: 5px;
+  border-radius: 10px;
+}
+
+.home-all {
+  background-color:#d7d7cb;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 50px;
+    padding-bottom: 30px;
+    border-radius: 20px;
+}
+
+
+
+
